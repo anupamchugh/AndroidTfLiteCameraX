@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidTfliteCameraX</string>
+
+    <string-array name="devices">
+        <item>GPU</item>
+        <item>CPU</item>
+        <item>NNAPI</item>
+    </string-array>
+</resources>
